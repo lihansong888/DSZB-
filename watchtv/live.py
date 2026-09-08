@@ -5,10 +5,10 @@ import os
 # ========== 填写源的地址 ==========
 URL_LIST = [
     "https://live.445569.xyz/live.m3u",
-    "http://git.yylx.win/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
 ]
 
-# ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名（yifa） ==========
+# ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名（yifa and裤佬） ==========
 GROUP_MAP = {
     "🔮港澳台直播": "hansong港澳台",
     "今日影视": "hansong港澳台T",
